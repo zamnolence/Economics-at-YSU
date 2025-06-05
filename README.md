@@ -2,7 +2,7 @@
 
 Welcome to the unit! The course materials and announcements for this unit will be uploaded on this website and WeChat Group: YSU Economics & Supply Chain
 
-![Group QR code](QR.jpg)
+![<img src="QR.png" alt="Group QR Code" width="300"/>](QR.jpg)
 
 
 ## Course Calendar
